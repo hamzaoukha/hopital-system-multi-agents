@@ -1,0 +1,8 @@
+[
+  { "nom": "Dr_Alami",   "specialite": "Cardiologie",    "delaiBase": 10, "fileAttente": 2, "maxFile": 5 },
+  { "nom": "Dr_Bennis",  "specialite": "Cardiologie",    "delaiBase": 25, "fileAttente": 0, "maxFile": 5 },
+  { "nom": "Dr_Chafik",  "specialite": "Generaliste",    "delaiBase": 5,  "fileAttente": 4, "maxFile": 6 },
+  { "nom": "Dr_Douiri",  "specialite": "Traumatologie",  "delaiBase": 15, "fileAttente": 1, "maxFile": 4 },
+  { "nom": "Dr_Essaidi", "specialite": "Neurologie",     "delaiBase": 30, "fileAttente": 0, "maxFile": 3 },
+  { "nom": "Dr_Fassi",   "specialite": "Pneumologie",    "delaiBase": 20, "fileAttente": 1, "maxFile": 4 }
+]
