@@ -1,4 +1,3 @@
-# hopital-sma1
 # Hôpital SMA
 
 Système multi-agents pour la gestion des urgences hospitalières, développé avec la plateforme **JADE**.
